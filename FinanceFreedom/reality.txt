@@ -1,0 +1,10 @@
+Fundamental: 60,2024-05-27
+Waste: 37,2024-06-14
+Fundamental: 50,2024-06-29
+Nice to have: 37,2024-06-29
+Waste: 60,2024-06-29
+Nice to have: 60,2024-06-30
+leftExpense, 496
+leftFundamentalExpense, 640
+leftNiceToHaveExpense, -47
+leftWaste, -97
