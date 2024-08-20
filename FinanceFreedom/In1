@@ -1,0 +1,5 @@
+ interface In1{
+    void new();
+    void cal();
+    void save();
+ }
