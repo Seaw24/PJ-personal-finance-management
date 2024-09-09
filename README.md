@@ -84,7 +84,7 @@ Contributions to improve Financial Freedom are welcome. Please feel free to fork
 
 ## 📞 Contact
 
-[Your Name or Username]
-[Your Email or GitHub profile]
+[Seaw24]
+[ducnam883@gmail.com]
 
 Thank you for using Financial Freedom! We hope this tool helps you on your journey to financial well-being.
